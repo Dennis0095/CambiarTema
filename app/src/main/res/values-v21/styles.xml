@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ThemeButton1" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="android:colorButtonNormal">#00ACC1</item>
+        <item name="android:colorControlHighlight">#fff</item>
+    </style>
+
+    <style name="ThemeButton2" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="android:colorAccent">#9700C1</item>
+        <item name="android:colorControlHighlight">#fff</item>
+    </style>
+
+</resources>
